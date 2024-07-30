@@ -98,5 +98,6 @@
 function say(message) {
     message = typeof message !== 'undefined' ? message : 'Hi';
     console.log(message);
+     console.log("check pull")
 }
-say(); 
+say(); hgvj
